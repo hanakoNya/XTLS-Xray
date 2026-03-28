@@ -20,13 +20,13 @@ import (
 var (
 	Version_x byte = 26
 	Version_y byte = 3
-	Version_z byte = 27
+	Version_z byte = 28
 )
 
 var (
 	build    = "Custom"
 	codename = "Xray, Penetrates Everything."
-	intro    = "A unified platform for anti-censorship."
+	intro    = "A unified platform for anti-censorship.(XICMPv6 Support)"
 )
 
 func init() {
