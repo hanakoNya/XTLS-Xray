@@ -19,13 +19,13 @@ import (
 
 var (
 	Version_x byte = 26
-	Version_y byte = 3
-	Version_z byte = 27
+	Version_y byte = 4
+	Version_z byte = 6
 )
 
 var (
 	build    = "Custom"
-	codename = "Xray, Penetrates Everything."
+	codename = "Xray, Penetrates Everything.(XICMPv6)"
 	intro    = "A unified platform for anti-censorship."
 )
 
